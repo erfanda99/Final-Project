@@ -4,7 +4,7 @@ Note taking application adalah sebuah aplikasi yang membantu pengguna untuk menc
 ---
 ___
 # Entity Relation Diagram
-
+![ERD Note Taking Application](https://user-images.githubusercontent.com/56560967/216669018-08bec547-225c-4eff-b4a7-ba4137093304.jpg)
 # RESTful API Endpointss
 
 | Name     |      Path     |  HTTP Verb | Description |
