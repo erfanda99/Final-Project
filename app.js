@@ -14,7 +14,7 @@ app.listen(port, () => {
 })
 
 app.get('/', (req, res) => {
-    res.send('Hello world!')
+    res.send('Note taking application by Erfanda Andrianto!')
 })
 
 // app.post('/login', (req, res) => {
